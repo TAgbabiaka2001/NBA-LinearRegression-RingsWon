@@ -1,4 +1,2 @@
 # NBA-LinearRegression-RingsWon
-Ran a linear regression to find any connection between a NBA player's stats and the number of rings won in their Career
-
 I Leveraged Excel and R-Studio to run Regression Analysis on 23 variables with the goal of finding significant variables in the career of NBA players who won NBA Championships. With 95% confidence, 61% of the variance in number of rings won by an NBA player is due to the multiple variables within my model.: Leveraged Excel and R-Studio to run Regression Analysis on 23 variables with the goal of finding significant variables in the career of NBA players who won NBA Championships. With 95% confidence, 61% of the variance in number of rings won by an NBA player is due to the multiple variables within my model.
